@@ -53,5 +53,8 @@
     "thumbnail_path" : "thumbnails/thumbnail_overlay_render.png",
     "image_path" : "gallery/overlay_render.png",
     "message" : "A render that displays the image in 3D by Brastin3#1871"
-  }
+  },
+  {"thumbnail_path" : "thumbnails/thumbnail_///home/romulo/Downloads/second_recreation.png"
+   "image_path" : "///home/romulo/Downloads/second_recreation.png"
+   "message" : "Public remake by Leony_HD#0639, Pedrin#5925, pupu#6700, and Salmon#7028"
 ]
